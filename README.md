@@ -31,13 +31,13 @@ To compile the demo program, run:
 
 ## TODO
 
-- [] batched execution for supporting larger streams
-- [] port parser to CUDA
-- [] stream error detection (parsing, checksums,...)
-- [] recursive variant of Helman-Jájá for iBWT
-- [] random selection of splitters for list ranking
-- [] automatic parameter tuning
-- [] unit tests
+- [ ] batched execution for supporting larger streams
+- [ ] port parser to CUDA
+- [ ] stream error detection (parsing, checksums,...)
+- [ ] recursive variant of Helman-Jájá for iBWT
+- [ ] random selection of splitters for list ranking
+- [ ] automatic parameter tuning
+- [ ] unit tests
 
 ## Licensing
 
